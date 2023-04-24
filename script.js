@@ -1,6 +1,6 @@
 let fact = document.querySelector("#fact");
 let btn = document.querySelector("#generate");
-let apiKey = "3zOMdOjZi57ZQKbJWpSWJA==2yMcQ9n6BHsxSgQv";
+let apiKey = "api key is not provided"; // for security purpose
 let options = {
   method: "GET",
   headers: { "x-api-key": apiKey },
